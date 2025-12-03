@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm a Frontend Developer
 
-<!--
-**mme-sbahi/mme-sbahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building modern, responsive, and user-friendly web applications using React, Next.js, and Tailwind CSS. I enjoy turning ideas and designs into clean, production-ready interfaces.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- React, Next.js, Tailwind CSS  
+- TypeScript, JavaScript  
+- Git, GitHub  
+- REST APIs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently
+- Working on real-world frontend projects  
+- Improving performance and UI/UX skills  
+
+Always open to learning, collaborating, and building exciting web experiences 🚀
+📫 Feel free to check out my projects or connect with me!
